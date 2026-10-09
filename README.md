@@ -36,3 +36,19 @@ Browse files from the [repository](https://github.com/Namnarak/Cytech-Cloud). Li
 > This repository does not currently document an open license for its media. Public visibility alone does not grant permission to redistribute or relicense assets.
 
 <div align="center"><sub>Maintained as part of the Cytech Team ecosystem.</sub></div>
+
+---
+
+<!-- CYTECH_STAR_HISTORY:START -->
+
+## Star History
+
+<a href="https://star-history.dera.page/#Namnarak/Cytech-Cloud&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Namnarak/Cytech-Cloud&type=date&legend=top-left&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Namnarak/Cytech-Cloud&type=date&legend=top-left" />
+    <img alt="GitHub star history for Namnarak/Cytech-Cloud" src="https://star-history.dera.page/svg?repos=Namnarak/Cytech-Cloud&type=date&legend=top-left" width="800" />
+  </picture>
+</a>
+
+<!-- CYTECH_STAR_HISTORY:END -->
