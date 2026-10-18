@@ -43,12 +43,14 @@ Browse files from the [repository](https://github.com/Namnarak/Cytech-Cloud). Li
 
 ## Star History
 
-<a href="https://star-history.dera.page/#Namnarak/Cytech-Cloud&type=date&legend=top-left">
+<a href="https://github.com/Namnarak/Cytech-Cloud/stargazers">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=Namnarak/Cytech-Cloud&type=date&legend=top-left&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=Namnarak/Cytech-Cloud&type=date&legend=top-left" />
-    <img alt="GitHub star history for Namnarak/Cytech-Cloud" src="https://star-history.dera.page/svg?repos=Namnarak/Cytech-Cloud&type=date&legend=top-left" width="800" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namnarak/Cytech-Cloud/refs/heads/main/assets/star-history-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namnarak/Cytech-Cloud/refs/heads/main/assets/star-history-light.svg" />
+    <img alt="Star history for Namnarak/Cytech-Cloud" src="https://raw.githubusercontent.com/Namnarak/Cytech-Cloud/refs/heads/main/assets/star-history-light.svg" width="1100" />
   </picture>
 </a>
+
+<sub>Updated automatically from GitHub's dated stargazers. Only currently starred accounts are included.</sub>
 
 <!-- CYTECH_STAR_HISTORY:END -->
